@@ -28,7 +28,7 @@ if($_SESSION["admin"]!="oui"){
   </div>
   <div class="content">
 
-  
+  //Hello
   </div>
 </body>
 
